@@ -1,7 +1,5 @@
 Implementación y Resolución de Nombres de Dominio en la Nube mediante Azure Private DNS Zones
 
-**Introducción**
-
 Este proyecto demuestra el diseño, despliegue y validación de un sistema de resolución de nombres global utilizando el servicio de Azure DNS. La arquitectura simula un entorno de producción público donde se configura una zona DNS autoritativa para el dominio corporativo wideworldimports.com, permitiendo asociar nombres de host lógicos a direcciones IP expuestas a internet. Para verificar la resiliencia y el comportamiento operativo de la infraestructura sin depender de un registrador externo, se implementaron conjuntos de registros de tipo A, se auditaron las respuestas de autoridad (SOA/NS) y se ejecutaron consultas directas y dirigidas mediante herramientas de diagnóstico perimetral, garantizando una topología de identidad en la nube de alta disponibilidad.
 
 * Azure Resource Groups
