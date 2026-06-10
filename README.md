@@ -10,6 +10,7 @@ Este proyecto demuestra el diseño, despliegue y validación de un sistema de re
 
 Guía de Despliegue y Configuración Técnica
 Creación e inicialización del Grupo de Recursos principal denominado LAB-DNS ubicado en la región geográfica East US
+
 <img width="688" height="362" alt="image" src="https://github.com/user-attachments/assets/cfd6a308-18fb-44bc-98e4-b7bd6b287779" />
 
 Aprovisionamiento y Enlaces de Red (DNS Zones & VNet Links)
